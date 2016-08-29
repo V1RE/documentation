@@ -47,7 +47,7 @@ sudo apt-get install python-pip
 
 `pip3` installs modules for Python 3 and `pip` installs modules for Python 2.
 
-For example, the following command installs the Unicirn HAT library for Python 3:
+For example, the following command installs the Unicorn HAT library for Python 3:
 
 ```bash
 pip3 install unicornhat
